@@ -1,36 +1,27 @@
-<h1 align="center">Olá 👋 Eu sou Augusto Conti</h1>
+<h1 align="center">Hi 👋 I'm Augusto Conti</h1>
 
 <h3 align="center">
-Desenvolvedor em formação | Java | PHP | Banco de Dados
+Software Development Student | Full-Stack Developer | Java & Web Technologies
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+Formação;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&lines=Software+Development+Student;Full-Stack+Developer+in+Training;Building+Projects+and+Learning+Every+Day" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos web
-- 🐧 Usuário Linux
-- 🌍 Melhorando meu inglês diariamente
-- 🚀 Em busca da primeira oportunidade na área
-
+- 🎓 Software Development student with a strong interest in building scalable and efficient applications
+- 💻 Developing projects focused on web development, databases, and software engineering
+- 🔐 Currently studying Cybersecurity, with an emphasis on security fundamentals and best practices
+- 🐧 Linux enthusiast with experience in Linux-based development environments
+- 📚 Continuously improving my skills in programming, problem-solving, and modern technologies
+- 🚀 Seeking opportunities to gain professional experience and contribute to impactful projects
 ---
 
-### ⚙️ Stack
+### ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,git,github,linux,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,react,ts,linux,vscode,python,mongo" />
 </p>
